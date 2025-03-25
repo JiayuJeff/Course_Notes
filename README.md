@@ -1,1 +1,1 @@
-# Paper_Notes
+# Course_Notes
